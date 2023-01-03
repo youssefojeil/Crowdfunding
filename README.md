@@ -39,10 +39,10 @@ A dApp where users can connect their metamask wallets, create their own crowdfun
 
 ## Demo
 
-<img src="./assets/home-page.png" alt="demo" style="width: 600px; height: 400px;" width="600" height="400"/>
-<img src="./assets/my-campaigns.png" alt="demo" style="width: 600px; height: 400px;" width="600" height="400"/>
-<img src="./assets/single-campaign.png" alt="demo" style="width: 600px; height: 400px;" width="600" height="400"/>
-<img src="./assets/create-campaign.png" alt="demo" style="width: 600px; height: 400px;" width="600" height="400"/>
+<img src="./assets/home-page.png" alt="demo" style="width: 800px; height: 400px;" width="600" height="400"/>
+<img src="./assets/my-campaigns.png" alt="demo" style="width: 800px; height: 400px;" width="600" height="400"/>
+<img src="./assets/single-campaign.png" alt="demo" style="width: 800px; height: 400px;" width="600" height="400"/>
+<img src="./assets/create-campaign.png" alt="demo" style="width: 800px; height: 400px;" width="600" height="400"/>
 
 <br />
 
