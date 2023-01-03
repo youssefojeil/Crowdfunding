@@ -48,42 +48,20 @@ A dApp where users can connect their metamask wallets, create their own crowdfun
 
 ## Tech Stack
 
-Select an icon to learn more about each technology in our stack.
+[![REACT Shield](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
+[![Solidity Shield](https://img.shields.io/badge/solidity-61DAFB?logo=solidity&logoColor=white&style=for-the-badge&color=blue)](https://docs.soliditylang.org/en/v0.8.14/#)
+[![Thirdweb Shield](https://img.shields.io/badge/thirdweb-61DAFB?logo=thirdweb&logoColor=white&style=for-the-badge&color=pink)](https://portal.thirdweb.com/)
+[![Ethers Shield](https://img.shields.io/badge/ethers-61DAFB?logo=ethers&logoColor=white&style=for-the-badge&color=blue)](https://docs.ethers.org/v5/)
+[![Hardhat Shield](https://img.shields.io/badge/hardhat-61DAFB?logo=hardhat&logoColor=white&style=for-the-badge&color=yellow)](https://hardhat.org/docs)
+[![Tailwind Shield](https://img.shields.io/badge/tailwind-61DAFB?logo=tailwind&logoColor=white&style=for-the-badge&color=cyan)](https://tailwindcss.com/)
+[![Vite Shield](https://img.shields.io/badge/vite-61DAFB?logo=vite&logoColor=white&style=for-the-badge&color=purple)](https://vitejs.dev/)
 
-### MERN Stack
-
-<a href="https://www.mongodb.com/" target=""><img src="./Assets/Techstack/mongodb-icon.svg" alt="MongoDB" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://expressjs.com/" target=""><img src="./Assets/Techstack/expressjs.svg" alt="Express" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://reactjs.org/" target=""><img src="./Assets/Techstack/react.svg" alt="React" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://nodejs.org/" target=""><img src="./Assets/Techstack/nodejs-icon.svg" alt="Node" style="width: 60px; height: 60px;" width="60" height="60"/></a>
-
-<br  />
-
-### Additional Technologies
-
-<a href="https://axios-http.com/" target=""><img src="./Assets/Techstack/axios.svg" alt="axios" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://www.apollographql.com/" target=""><img src="./Assets/Techstack/apollostack.svg" alt="Apollo" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://graphql.org/" target=""><img src="./Assets/Techstack/graphql.svg" alt="GraphQL" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://www.npmjs.com/" target=""><img src="./Assets/Techstack/npm-icon.svg" alt="npm" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://lottiefiles.github.io/lottie-docs/" target=""><img src="./Assets/Techstack/lottie-logo.png" alt="bootstrap" style="width: 60px; height: 60px;" width="60" height="60"/></a>
-<a href="https://getbootstrap.com/" target=""><img src="./Assets/Techstack/bootstrap.svg" alt="bootstrap" style="width: 60px; height: 60px;" width="60" height="60"/></a>
 
 <br  />
-
-### Web3 Technologies
-
-<a href="https://moralis.io/" target=""><img src="./Assets/Techstack/moralis.png" alt="moralis" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://metamask.io/" target=""><img src="./Assets/Techstack/metamask-icon.svg" alt="metamask" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://www.rainbowkit.com/" target=""><img src="./Assets/Techstack/rainbow.png" alt="rainbow" style="width: 60px; height: 60px;" width="60" height="60"/>
-<a href="https://wagmi.sh/" target=""><img src="./Assets/Techstack/wagmi.png" alt="wagmi" style="width: 60px; height: 60px;" width="60" height="60"/></a>
-
-<br />
-<br />
-
 <br />
 
 ## Contact Me
 
-We love hearing from users and developers! Please reach out to [our team](mailto:bethdecarlo@gmail.com,joseobm92@gmail.com) if you have any questions or comments about Oyster.
+If you have any questions or you are looking to collaborate on any web3 projects, please reach out to me at [youssef.ojeil@gmail.com](mailto:youssef.ojeil@gmail.com).
 
 <br />
